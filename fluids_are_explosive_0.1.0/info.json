@@ -1,0 +1,11 @@
+{
+  "name": "fluids_are_explosive",
+  "version": "0.1.0",
+  "factorio_version": "0.16",
+  "title": "Fluids are explosive",
+  "author": "MewMew",
+  "contact": "",
+  "homepage": "",
+  "description": "Volatile fluids and gasses in storage tanks and pipes can explode.",
+  "dependencies": ["base >= 0.16.0"]
+}
